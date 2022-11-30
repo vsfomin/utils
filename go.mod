@@ -1,3 +1,3 @@
-module github.com/dhnikolas/utils/v2
+module github.com/vsfomin/utils
 
 go 1.14
